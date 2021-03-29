@@ -23,7 +23,7 @@ Here we are building app for blind and physical disable people, so they can spea
 App uses a number of open source projects to work properly:  library_name (version_number)
 
 - python (3.x) 
-- gtts (google text to specch)(2.2.2)
+- gtts (google text to speech)(2.2.2)
 - speech_recognition (3.8.1)
 - word2number (1.1)
 
