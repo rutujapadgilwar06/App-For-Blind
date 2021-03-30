@@ -20,13 +20,17 @@ Here we are building app for blind and physical disable people, so they can spea
 
 ## Tech
 
-App uses a number of open source projects to work properly:  library_name (version_number)
+App uses a number of open source library to work properly:  library_name (version_number)
 
 - python (3.x) 
 - gtts (google text to speech)(2.2.2)
 - speech_recognition (3.8.1)
 - word2number (1.1)
 
+For installation of the library, run the command "pip install library_name" on the terminal
+```sh
+pip install gtts
+```
 
 ### Installation
 
